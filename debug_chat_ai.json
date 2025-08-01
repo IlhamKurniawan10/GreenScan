@@ -1,0 +1,5 @@
+{
+    "httpCode": 200,
+    "curl_error": "",
+    "response_raw": "\n         \n\n         \n{\"id\":\"gen-1753874770-FFWBR8s0no8GPhuaZzVp\",\"provider\":\"OpenAI\",\"model\":\"openai\/gpt-3.5-turbo\",\"object\":\"chat.completion\",\"created\":1753874770,\"choices\":[{\"logprobs\":null,\"finish_reason\":\"stop\",\"native_finish_reason\":\"stop\",\"index\":0,\"message\":{\"role\":\"assistant\",\"content\":\"Tanaman biasanya berasal dari berbagai tempat di seluruh dunia, tergantung pada spesiesnya. Dengan informasi tambahan mengenai tanaman yang dimaksud, saya bisa memberikan informasi lebih spesifik mengenai asal-usulnya. Apakah kamu bisa memberikan deskripsi atau informasi tambahan mengenai tanaman tersebut?\",\"refusal\":null,\"reasoning\":null}}],\"system_fingerprint\":null,\"usage\":{\"prompt_tokens\":42,\"completion_tokens\":84,\"total_tokens\":126,\"prompt_tokens_details\":{\"cached_tokens\":0},\"completion_tokens_details\":{\"reasoning_tokens\":0}}}"
+}

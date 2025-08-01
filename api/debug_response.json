@@ -1,0 +1,83 @@
+{
+    "id": 1050727731,
+    "custom_id": null,
+    "meta_data": {
+        "latitude": null,
+        "longitude": null,
+        "date": "2025-08-01",
+        "datetime": "2025-08-01"
+    },
+    "uploaded_datetime": 1754040725.088556,
+    "finished_datetime": 1754040725.246526,
+    "images": [
+        {
+            "file_name": "e6b665ec657544c38d0e33baa8094c28.jpg",
+            "url": "https:\/\/plant.id\/media\/imgs\/e6b665ec657544c38d0e33baa8094c28.jpg"
+        }
+    ],
+    "suggestions": [
+        {
+            "id": 105072773100,
+            "plant_name": "Bellis perennis",
+            "probability": 0.7989,
+            "confirmed": false,
+            "plant_details": {
+                "language": "en",
+                "scientific_name": "Bellis perennis",
+                "structured_name": {
+                    "genus": "bellis",
+                    "species": "perennis"
+                }
+            }
+        },
+        {
+            "id": 105072773101,
+            "plant_name": "Bellis sylvestris",
+            "probability": 0.0789,
+            "confirmed": false,
+            "plant_details": {
+                "language": "en",
+                "scientific_name": "Bellis sylvestris",
+                "structured_name": {
+                    "genus": "bellis",
+                    "species": "sylvestris"
+                }
+            }
+        },
+        {
+            "id": 105072773102,
+            "plant_name": "Erigeron karvinskianus",
+            "probability": 0.046,
+            "confirmed": false,
+            "plant_details": {
+                "language": "en",
+                "scientific_name": "Erigeron karvinskianus",
+                "structured_name": {
+                    "genus": "erigeron",
+                    "species": "karvinskianus"
+                }
+            }
+        },
+        {
+            "id": 105072773103,
+            "plant_name": "Aphanostephus ramosissimus",
+            "probability": 0.0165,
+            "confirmed": false,
+            "plant_details": {
+                "language": "en",
+                "scientific_name": "Aphanostephus ramosissimus",
+                "structured_name": {
+                    "genus": "aphanostephus",
+                    "species": "ramosissimus"
+                }
+            }
+        }
+    ],
+    "modifiers": [],
+    "secret": "W9g4vJ1TEwediVL",
+    "fail_cause": null,
+    "countable": true,
+    "feedback": null,
+    "is_plant": true,
+    "is_plant_probability": 0.9827906
+}

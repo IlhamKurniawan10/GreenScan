@@ -1,0 +1,55 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #ffffff;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+}
+
+.illustration {
+  width: 100%;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.btn {
+  flex: 1;
+  margin: 5px;
+  padding: 15px;
+  font-size: 16px;
+  border-radius: 20px;
+  border: none;
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  font-weight: bold;
+}
+
+.scan {
+  background: #388E3C;
+  display: block;
+  width: 90%;
+  text-align: center;
+}
+
+.galeri {
+  background: #388E3C;
+  display: block;
+  width: 90%;
+}
+
+.langganan {
+  background: #2E7D32;
+  display: block;
+  width: 90%;
+}
